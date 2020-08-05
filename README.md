@@ -1,3 +1,3 @@
 # root
-MyStuff
-This is a test.
+
+Mark Warren's GitHub repository for Python and web programming projects.
